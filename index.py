@@ -1,1 +1,1 @@
-print("Sanya Sukhija")
+print("Sanya Sukhija");
